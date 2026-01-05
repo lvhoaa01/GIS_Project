@@ -71,3 +71,5 @@ Nhóm đã tiến hành thực nghiệm trên dữ liệu thực tế từ **Ope
 2.  Trang T.D.Nguyen et al., *A method for efficient clustering of spatial data in network space*.
 
 ---
+
+## FILE CHÍNH NẰM TRONG THƯ MỤC FINAL, NHỮNG CÁI CÒN LẠI LÀ KẾT QUẢ CỦA NHỮNG LẦN THỬ NGHIỆM THUẬT TOÁN !!!
